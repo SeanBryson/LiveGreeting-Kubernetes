@@ -1,4 +1,4 @@
-### Exercise: Deploying a Web Application to Kubernetes
+### Kubernetes Web Application
 
 #### Objective
 Deploy a simple web application using Kubernetes, expose it via a service, and access it locally.
