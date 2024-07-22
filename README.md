@@ -13,7 +13,7 @@ Deploy a simple web application using Kubernetes, expose it via a service, and a
 #### Step 1: Start with a Web Application
 Feel free to use the provided zip file or clone the web application repository:
 ```bash
-git clone https://github.com/JUMP-TA/DockerWebApp.git
+git clone (https://github.com/SeanBryson/DockerWebApp.git
 cd DockerWebApp
 ```
 
