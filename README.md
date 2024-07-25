@@ -1,9 +1,4 @@
-### Kubernetes Web Application
-
-#### Objective
-Deploy a simple web application using Kubernetes, expose it via a service, and access it locally.
-
-### Detailed Steps
+### Live Greeting Web Application
 
 #### Prerequisites
 - A running Kubernetes cluster (This example was built using Docker Desktop. Other options include Minkube or any cloud provider Kubernetes service)
